@@ -1,5 +1,4 @@
 # AI-Document-Chatbots
-# AI Document Chatbot
 
 ## Problem
 Finding answers in long PDFs is difficult
