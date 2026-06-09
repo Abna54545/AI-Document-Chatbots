@@ -1,34 +1,26 @@
-# AI-Document-Chatbots
-
-## Problem
-Finding answers in long PDFs is difficult
-
-## Solution
-Built an AI chatbot using RAG
-
-## Tech Used
-- Python
-- FAISS
-- Transformers
-
-## Results
-Accurate answers from documents 
-
-
 🤖 AI Document Chatbot
 
-• Upload and analyze PDF, DOCX, and TXT  files
+🚀 Features
 
-• Ask questions in natural language
+- Upload and analyze PDF, DOCX, and TXT files
+- Ask questions in natural language
+- Get context-aware answers from documents
+- Generate document summaries
+- Retrieve key information instantly
+- Analyze resumes and CVs
+- Support research and academic learning
+- Create an interactive knowledge base using AI
 
-• Get context-aware answers from documents
+🛠️ Technologies Used
 
-• Generate document summaries
+- Python
+- NLP
+- LLMs
+- Vector Database
 
-• Retrieve key information instantly
+📌 Use Cases
 
-• Analyze resumes and CVs
-
-• Support research and academic learning
-
-• Create an interactive knowledge base using AIpp
+- Research Assistance
+- Resume Analysis
+- Document Summarization
+- Knowledge Management
